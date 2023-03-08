@@ -1,0 +1,8 @@
+.login-pai-container{
+    display: flex;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+}
